@@ -297,7 +297,7 @@ sur des projets pratiques, documentés et reproductibles.
 
 **LinkedIn :** [Mon profil LinkedIn](https://www.linkedin.com/in/patrick-kayanda)
 
-**GitHub :** [Mon profil GitHub](https://patrickkayanda.github.io)
+**GitHub :** [Mon profil GitHub](https://github.com/patrickkayanda)
 
 
 📍 Kinshasa, République démocratique du Congo
